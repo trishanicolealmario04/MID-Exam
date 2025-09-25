@@ -21,7 +21,7 @@ class ContactPage extends StatelessWidget {
               child: ListTile(
                 leading: Icon(Icons.email, color: Colors.blue),
                 title: Text("Email"),
-                subtitle: Text("info@abcschool.edu"),
+                subtitle: Text("globalreciprocalcoleges@.edu"),
               ),
             ),
             SizedBox(height: 10),
@@ -38,3 +38,4 @@ class ContactPage extends StatelessWidget {
     );
   }
 }
+
